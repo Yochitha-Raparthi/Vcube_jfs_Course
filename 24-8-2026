@@ -1,0 +1,6 @@
+Java --> Complete the jvm architecture !st module class loader Sub System 
+          1. Loader --> bootstrap, extension, application class loader
+          2. Linking --> byte code verifier, prepare, resolve
+          3. Instialization
+MySQL --> Evaluation process :  from --> select
+                                from --> select --> order by
