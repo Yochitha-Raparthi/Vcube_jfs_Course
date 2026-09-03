@@ -1,0 +1,17 @@
+Java --> explain the keywords in java.
+         Total 53 keywords divided into 5 parts
+         1.primitive datatypes --> byte short int long
+                                   float double
+                                   char boolean
+          2. Application level 
+             1. top level --> package, import
+             2. type level or class level --> class interface enum new instanceof
+             3. method level --> void return var
+             4. oops --> this super extends implements assert
+          3. access modifiers & non access modifiers
+             access modifiers --> private <default> protected public
+          4. exception handling --> try, catch, finally, throw, throws, try with resources
+          5. logical or control statements
+          
+MySQL --> Sub queries --> query inside the query
+                          and evaluation process starts with outer query but first executes the inner most query
