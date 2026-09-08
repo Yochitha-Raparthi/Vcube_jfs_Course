@@ -1,0 +1,10 @@
+Java --> data types + type casting
+MYSQL --> We can write with 7 types
+         1. Where --> 1. where =
+                      2. where in
+                      3. where exists
+                      4. where condition correlated subquery --> runs every outer row
+         2. From --> from (subquery)
+         3. Select --> 1. Select correlated subquery --> runs every outer row
+                      2. Scalar subquery --> runs one time
+         
