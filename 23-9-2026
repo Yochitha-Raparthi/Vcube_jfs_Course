@@ -1,2 +1,2 @@
 Java --> Constructors --> this keyword
-MYSQL --> window functions --> Ntile(expression), Lag(expression), Lead(expression,offset)
+MYSQL --> window functions --> Ntile(n)--> n means no.of buckets, Lag(expression), Lead(expression,offset)
