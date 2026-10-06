@@ -1,0 +1,6 @@
+Java --> Spring API introduction 2  --> @SpringBootApplication --> @SpringBootConfiguration
+                                                                   @EnableAutoConfiguration
+                                                                   @CompensationSpan
+                                        @RequestMapping,@RestController,@GetMapping
+
+MySQl --> Looping statements in procedures 1.loop, 2.while, 3.repeat
